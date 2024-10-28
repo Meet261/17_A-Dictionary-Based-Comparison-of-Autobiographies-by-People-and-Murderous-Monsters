@@ -1,0 +1,13 @@
+name: dictionary_comparison
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-devtools
+  - r-reshape2
+  - r-sentimentr
+  - r-lexicon
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
