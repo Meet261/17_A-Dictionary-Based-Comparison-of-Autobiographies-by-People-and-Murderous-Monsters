@@ -1,0 +1,2 @@
+install.packages('devtools', repos = "https://cran.r-project.org")
+devtools::install_github('miserman/splot')
